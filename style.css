@@ -16,11 +16,14 @@
 
 h2 {
     padding: 10px;
+    margin-bottom: -10px;
 }
 
 p {
     text-align: justify;
     padding: 10px;
+    margin-bottom: -10px;
+    
 }
 
 .btngroup {
