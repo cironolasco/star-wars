@@ -1,5 +1,5 @@
 # star-wars
- Assignment do meu curso de **Mobile Application Development** na Canadore College.
+ Assignment from my **Mobile Application Development** Program at Canadore College.
  
- Site para o curso de *Web Developmet for Mobile*
-* Esse site é o esboço de um guia para a introdução de um novo fã à *Star Wars*
+The website is a part of the *Web Developmet for Mobile* course
+* The website is a sketch to a Beginner's Guide for a new fan to *Star Wars*
